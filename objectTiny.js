@@ -1,4 +1,4 @@
-// (c) 2016 鯉渕 保司 (yKoibuti@mail.gmail.com)
+// (c) 2016 鯉渕 保司 (yKoibuti@gmail.com)
 // Artistic License 2.0
 
 var ObjectTiny = function() {
